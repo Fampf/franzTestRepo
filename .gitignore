@@ -1,1 +1,3 @@
 ignoreThisFileForRepo.txt
+.idea
+*.iml
